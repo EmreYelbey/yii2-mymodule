@@ -1,5 +1,5 @@
 <?php
-namespace EmreYelbey\content\controllers;
+namespace emre-yelbey\content\controllers;
 class DefaultController extends \yii\web\Controller
 {
     public function actionIndex()
