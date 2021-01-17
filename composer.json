@@ -1,11 +1,11 @@
 {
-  "name": "EmreYelbey/yii2-content",
+  "name": "emre-yelbey/yii2-content",
   "description": "Yii2 Content Module",
   "type": "yii2-extension",
   "license": "MIT",
   "authors": [
     {
-      "name": "EmreYelbey",
+      "name": "emre-yelbey",
       "email": "emreyelbey@kocaeli.edu.tr",
       "role": "Developer"
     }
@@ -19,12 +19,12 @@
   },
   "autoload": {
     "psr-4": {
-      "EmreYelbey\\content\\": "src"
+      "emre-yelbey\\content\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "EmreYelbey\\content\\tests\\": "tests"
+      "emre-yelbey\\content\\tests\\": "tests"
     }
   },
   "repositories": [
