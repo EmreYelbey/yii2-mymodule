@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "emre-yelbey\\content\\": "src"
+      "emreyelbey\\content\\": "src"
     }
   },
   "autoload-dev": {
