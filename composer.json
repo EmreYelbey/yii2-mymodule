@@ -1,0 +1,36 @@
+{
+  "name": "uguryildiz/yii2-content",
+  "description": "Yii2 Content Module",
+  "type": "yii2-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "EmreYelbey",
+      "email": "emreyelbey@kocaeli.edu.tr",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "yiisoft/yii2": "~2.0.13"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "8.*.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "EmreYelbey\\content\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "EmreYelbey\\content\\tests\\": "tests"
+    }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ]
+}
