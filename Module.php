@@ -1,5 +1,5 @@
 <?php
-namespace emre-yelbey\content;
+namespace emreyelbey\content;
 
 class Module extends \yii\base\Module {
 
