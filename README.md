@@ -9,8 +9,8 @@ Modülü kullanmak için projenizin bulunduğu dizine gidip "composer" aracıyla
 
 Eğer bu adım hatasız şekilde tamamlanmışsa projenizin *vendor* klasörü altında *emreyelbey* adında bir dizin oluşmuş olmalıdır. Bundan sonra modülü backend ya da frontend tarafında kullanmak üzere konfigüre etmeniz gerekir.
 
-> Frontend için: **/frontend/config/main.php**
-> Backend için: **/backend/config/main.php**
+    Frontend için: /frontend/config/main.php
+    Backend için: /backend/config/main.php
 
 dosyalarındaki gerekli kısmı aşağıdaki parçaya uygun şekilde düzenleyin.
 
