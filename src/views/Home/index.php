@@ -1,7 +1,5 @@
 <?php
 use yii\helpers\Html;
-/* @var $this yii\web\View */
-//$this->registerCssFile('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css%27');
 ?>
 <h1>Stok Takibi Modulu</h1>
 
